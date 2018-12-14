@@ -1,0 +1,19 @@
+{
+  "name": "pawalert",
+  "version": "1.0.0",
+  "description": "hackathon_base_projecet",
+  "main": "PawAlert.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pdbull/txt_hackathon_sampleproject.git"
+  },
+  "author": "paul bull",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pdbull/txt_hackathon_sampleproject/issues"
+  },
+  "homepage": "https://github.com/pdbull/txt_hackathon_sampleproject#readme"
+}
