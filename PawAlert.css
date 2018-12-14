@@ -1,0 +1,29 @@
+       #map {
+        height: 300px;
+        width: 500px;
+       }
+
+       .dogPhoto {
+        height: 100px;
+        width: 100px;
+       }
+
+       .bottomtoolbar {
+       	float:left;
+       	width:100%;
+       }
+
+       .floatLeft {
+       	float:left;
+       	display:inline-block;
+       	width:100%;
+       }
+       .partial{
+       	width: 400px;
+       }
+       .search{
+       	width: 100px;
+       }
+       body {
+       	background-color: #a5174b;
+       }
